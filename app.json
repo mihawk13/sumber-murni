@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sumber-murni",
+    "slug": "sumber-murni",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sumber-murni"
+}
