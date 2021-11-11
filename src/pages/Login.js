@@ -11,7 +11,7 @@ const Login = () => {
 
   return (
     <View style={styles.container}>
-      <Image style={styles.logo} source={require('./logo.png')} />
+      <Image style={styles.logo} source={require('../logo.png')} />
       <TextInput
         style={styles.txtUser}
         onChangeText={onChangeNumber}
